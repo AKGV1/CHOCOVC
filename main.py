@@ -52,13 +52,21 @@ from rocks import (
 )
 
 
-REPO = """ **━━━━━━━━━━━━━━━━━━━━━━━━
-[BOT FAST LIKE FAST AS FUCK]
+REPO = """━━━━━━━━━━━━━━━━━━━━━━━━
+💥 A ᴘᴏᴡᴇʀғᴜʟ ᴜsᴇʀʙᴏᴛ
+ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
+━━━━━━━━━━━━━━━━━
+ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴠᴄ ᴄʜᴀᴛ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ OWNER    : [AKGxCHOCO]
-┣★ PATA  : [BACKCHODI POINT]
+┣★ [𝐂𝐫𝐞𝐚𝐭𝐨𝐫] @Dr_Asad_Ali
+┣★ [𝐇𝐞𝐚𝐫𝐭]     @Give_Me_Heart
+┣★ [𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬] @AsadSupport)
+┣★ [𝐎𝐮𝐫 𝐅𝐞𝐝] @Part_Of_Rocks)
+┣★ [𝐆𝐫𝐨𝐮𝐩] @Shayri_Music_Lovers)
 ┗━━━━━━━━━━━━━━━━━┛
-━━━━━━━━━━━━━━━━━━━━━━━━**"""
+
+💞 
+IF HAVE ANY QUESTION OR WANT REPO THEN CONTACT » TO » MY » [OWNER] @Dr_Asad_Ali"""
 
 
 @app.on_message(
